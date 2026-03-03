@@ -1,134 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=230&section=header&text=Pradnya%20Kamble&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descSize=22&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=220&section=header&text=Pradnya%20Kamble&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descSize=22&descAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Crafting+Beautiful+%26+Responsive+Web+Experiences;HTML+%7C+CSS+%7C+JavaScript+Specialist;UI%2FUX+Designer+%7C+Figma+Enthusiast;Clean+Code+%2B+Creative+Design+%3D+Impact" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-kamble-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://pradnya-kamble-dev.github.io/Pradnya-Kamble-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/pradnya-kamble-dev)
-[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradnya.kamble.dev@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+Developer;UI%2FUX+Designer+%7C+Figma+Enthusiast;Responsive+%26+Mobile-First+Web+Design;Turning+Ideas+into+Beautiful+Interfaces)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pradnya-kamble-dev&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-kamble-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradnya-kamble-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pradnya-kamble-dev.github.io/Pradnya-Kamble-Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradnya.kamble.dev@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pradnya-kamble-dev&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 ```javascript
-const PradnyaKamble = {
-    title: "Frontend Developer & UI/UX Designer",
-    location: "Mumbai, India 🇮🇳",
-    education: "B.E. Computer Science Engineering (CGPA: 7.86)",
-    
-    expertise: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS"],
-        design: ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
+class PradnyaKamble {
+    constructor() {
+        this.role = "Frontend Developer & UI/UX Designer";
+        this.location = "Mumbai, India 🇮🇳";
+        this.education = "B.E. Computer Science Engineering (CGPA: 7.86)";
+        this.coreSkills = ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS", "Figma"];
+        this.backendExposure = ["PHP", "MySQL (Basic)"];
+    }
 
-    mindset: "Mobile-First | User-Centered | Detail-Oriented",
+    currentFocus() {
+        return [
+            "Building responsive & accessible web applications",
+            "Designing intuitive UI/UX with clean layouts",
+            "Improving user engagement through modern interfaces",
+            "Delivering measurable business impact"
+        ];
+    }
 
-    focus: [
-        "Designing clean, modern & intuitive interfaces",
-        "Building fully responsive web applications",
-        "Improving usability & accessibility",
-        "Delivering measurable business impact"
-    ],
-
-    motto: "Where Design meets Functionality ✨"
-};
+    motto() {
+        return "Design + Code = Seamless Digital Experience ✨";
+    }
+}
 
 export default PradnyaKamble;
 ```
 
 ---
 
-# 🚀 Professional Impact
+## 🚀 Professional Highlights
 
 <div align="center">
 
-| 🎯 Achievement | 📊 Result |
+| 💡 Achievement | 📊 Impact |
 |:---|:---:|
-| 🌐 Successfully Delivered Projects | 3+ |
-| 📈 Customer Satisfaction Growth | +25% |
-| ⚡ Operational Efficiency Increase | +30% |
-| 🚚 Service Speed Improvement | +20% |
+| 🌐 Live Web Projects | 3+ Successfully Delivered |
+| 📈 Customer Satisfaction | +25% Increase |
+| ⚡ Operational Efficiency | +30% Boost |
+| 🚚 Faster Service Delivery | +20% Improvement |
 | 🎓 B.E. CGPA | 7.86 / 10 |
 
 </div>
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 
 <div align="center">
 
-### 🎨 UI / UX
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-111111?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)
+### 🎨 UI / UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🍱 FreshMealTrack — Live
-Responsive Meal Tracking & Subscription Management platform.
+### 🍱 FreshMealTrack — Live  
+A responsive Meal Tracking & Subscription Management platform built using HTML, CSS, JavaScript, and Tailwind CSS.
 
-**Key Highlights:**
-- Role-based dashboard UI  
+**Key Contributions:**
+- Role-based dashboard UI for mess owners  
 - Customer feedback interface  
-- Mobile-first Tailwind CSS layout  
-- 25% increase in satisfaction  
-- 30% operational efficiency boost  
+- Fully mobile-first responsive layout  
+- Achieved 25% satisfaction & 30% operational efficiency improvement  
 
 🔗 https://fresh-meal-track.onrender.com/
 
 ---
 
-## 💼 Digital Marketing Service Website
-Modern responsive service website.
+### 💼 Digital Marketing Service Website  
+Responsive business website developed with HTML5, CSS3, Bootstrap & JavaScript.
 
-**Features:**
-- Video hero section  
+**Highlights:**
+- Interactive video hero section  
 - Testimonial carousel  
 - JavaScript form validation  
-- Cross-browser optimized  
+- Cross-browser compatible design  
 
 ---
 
-## 🌐 Personal Portfolio — Live
-Professional portfolio website showcasing projects & resume.
+### 🌐 Personal Portfolio — Live  
+Modern portfolio website showcasing projects, skills & resume download feature.  
 
 🔗 https://pradnya-kamble-dev.github.io/Pradnya-Kamble-Portfolio/
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -141,21 +140,14 @@ Professional portfolio website showcasing projects & resume.
 
 ---
 
-# 📫 Let’s Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/pradnya-kamble-dev/
-
-🌐 Portfolio  
-https://pradnya-kamble-dev.github.io/Pradnya-Kamble-Portfolio/
-
-📧 Email  
-pradnya.kamble.dev@gmail.com
-
-💻 GitHub  
-https://github.com/pradnya-kamble-dev
+💼 LinkedIn: https://www.linkedin.com/in/pradnya-kamble-dev/  
+🌐 Portfolio: https://pradnya-kamble-dev.github.io/Pradnya-Kamble-Portfolio/  
+📧 Email: pradnya.kamble.dev@gmail.com  
+💻 GitHub: https://github.com/pradnya-kamble-dev  
 
 </div>
 
@@ -163,9 +155,9 @@ https://github.com/pradnya-kamble-dev
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:667eea,100:764ba2&height=120&section=footer"/>
 
-✨ *Designing Experiences. Building Interfaces. Delivering Impact.*  
-Made with 💜 by **Pradnya Kamble**
+✨ *Crafting Clean Code & Beautiful Interfaces*  
+Built with 💜 | Mumbai, India  
 
 </div>
